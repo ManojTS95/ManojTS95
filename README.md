@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **manojvarma1978@gmail.com**
 
-- 📄 Know more about me from [Resume](https://drive.google.com/file/d/1tR7stotYhHcSdXExlaXCbGToLO5JHPc8/view?usp=drive_link)
+- 📄 Know more about me from [Resume](https://drive.google.com/file/d/159fGYF-G2Qva9Q8W4Tk1xuW7u9rbmRYg/view?usp=drive_link)
 
 - ⚡ Fun fact **I am Tech Enthusiast.**
 
