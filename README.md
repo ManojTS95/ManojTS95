@@ -6,7 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/manojvarma95" target="blank"><img src="https://img.shields.io/twitter/follow/manojvarma95?logo=twitter&style=for-the-badge" alt="manojvarma95" /></a> </p>
 
-- 🔭 I’m currently working on **Blog**
 
 - 🌱 I’m currently learning **Backend Technologies**
 
